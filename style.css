@@ -1,0 +1,28 @@
+.header {
+  background-image: url(img/background.png);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+  color: white;
+}
+
+nav {
+  width: 100%;
+  align-items: center;
+}
+
+.info {
+  display: inline;
+  justify-content: flex-start;
+}
+
+.logo {
+  display: inline;
+  float: center;
+}
+
+.social {
+  display: inline;
+  margin: -1px -0;
+float: inline-end;}
